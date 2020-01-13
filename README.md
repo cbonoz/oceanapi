@@ -1,7 +1,9 @@
 <p align='center'>
-    <img src="./img/ocean_api.png">
+    <img src="./img/ocean_api_3_2.png">
 </p>
-### OceanAPI
+OceanAPI
+---
+
 Turn any uploaded ocean dataset into a dynamic hosted API.
 
 The API supports the following high level actions.
