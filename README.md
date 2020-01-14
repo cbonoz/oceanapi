@@ -4,9 +4,7 @@
 
 # OceanAPI
 ---
-WIP (concept)
-
-Pitched for the network integration Ocean Protocol hackathon challenge.
+Prototype pitched for the network integration Ocean Protocol hackathon challenge.
 
 Turn any uploaded ocean dataset into a dynamic hosted API.
 
