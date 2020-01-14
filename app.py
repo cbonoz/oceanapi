@@ -58,7 +58,7 @@ def describe():
         json_abort(400, {'error': 'no csv found'})
     print(path)
     df = pd.read_csv(path, index_col=0, nrows=1)
-    columns = df.columns.values
+    columns = list(df.columns.values)
     return jsonify({'columns': columns})
 
 # query existing datasets # TODO: consult live ocean network - using prewarmed datasets for demo.
