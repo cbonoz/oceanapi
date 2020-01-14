@@ -13,8 +13,8 @@ Turn any uploaded ocean dataset into a dynamic hosted API.
 The API supports the following high level actions.
 
 * Describe an existing dataset.
+* Search / confirm existing datasets.
 * Query an existing dataset.
-* Upload a new dataset
 
 ### Running the server
 
