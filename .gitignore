@@ -1,2 +1,6 @@
 temp/
 config.ini
+data/
+barge/
+.DS_Store
+test*.py
